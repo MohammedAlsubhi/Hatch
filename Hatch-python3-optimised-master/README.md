@@ -24,7 +24,7 @@ dont worry if you load up the tool without any args youll go to the default wiza
 Also i removed the apt xvfb and pip2 pyvirtualdisplay
 ## Installation Instructions
 ```
-git clone https://github.com/MetaChar/Hatch
+git clone https://github.com/MohammedAlsubhi/Hatch.git
 python3 main.py
 ```
 
